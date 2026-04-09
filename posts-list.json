@@ -2,34 +2,55 @@
   "id": "20000101-001",
   "title": "ブログ要素Demo",
   "date": "2000-01-01",
-  "update": "2026-03-10",
-  "description": "これはサンプルの記事です。"
+  "update": "2026-04-09",
+  "description": "これはサンプルの記事です。",
+  "published": false
 },
 {
   "id": "20251024-001",
   "title": "学習ポートフォリオサイトを作ってみる",
   "date": "2025-10-24",
-  "update": "2026-03-10",
-  "description": "学習ポートフォリオサイトを作ったきっかけや、取得したい技術についてまとめました。"
+  "update": "2026-04-09",
+  "description": "学習ポートフォリオサイトを作ったきっかけや、取得したい技術についてまとめました。",
+  "published": true
 },
 {
   "id": "20251101-001",
   "title": "開発環境構築(WSL+Docker+Next.js)",
   "date": "2025-11-01",
-  "update": "2026-03-10",
-  "description": "WSL + Dckerを使用したNext.jsの開発環境構築方法についてまとめました。"
+  "update": "2026-04-09",
+  "description": "WSL + Dckerを使用したNext.jsの開発環境構築方法についてまとめました。",
+  "published": true
 },
 {
   "id": "20251104-001",
   "title": "AWS EC2でWebサーバーを立てる",
   "date": "2025-11-04",
-  "update": "2026-03-10",
-  "description": "AWSで初めてEC2を立ち上げてみた時の備忘録です。"
+  "update": "2026-04-09",
+  "description": "AWSで初めてEC2を立ち上げてみた時の備忘録です。",
+  "published": true
 },
 {
   "id": "20251217-001",
   "title": "WordPressをヘッドレス化してみた",
   "date": "2025-12-17",
-  "update": "2026-03-10",
-  "description": "WordPressをヘッドレス化した時の備忘録です。ヘッドレス化する手順からSEO対策までまとめました。"
+  "update": "2026-04-09",
+  "description": "WordPressをヘッドレス化した時の備忘録です。ヘッドレス化する手順からSEO対策までまとめました。",
+  "published": true
+},
+{
+  "id": "20260408-001",
+  "title": "AWS EC2 + Docker構成からVercel + Cloudflareへ移行した話",
+  "date": "2026-04-08",
+  "update": "2026-04-09",
+  "description": "AWS EC2 + Docker構成からVercel + Cloudflareへ移行した話",
+  "published": true
+},
+{
+  "id": "20260409-001",
+  "title": "ポートフォリオブログの管理・表示の仕組み",
+  "date": "2026-04-09",
+  "update": "2026-04-09",
+  "description": "このポートフォリオサイトのブログ記事をどう管理し、Next.jsでどう表示しているかをまとめました。Cloudflare R2・Vercel・react-markdownを使った構成です。",
+  "published": true
 }]
